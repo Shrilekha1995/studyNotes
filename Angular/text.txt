@@ -1,0 +1,7 @@
+from parent to child: use @ Input in child
+from child to parent : use @ Output in child
+
+
+karma:server
+Jasmin :language
+
